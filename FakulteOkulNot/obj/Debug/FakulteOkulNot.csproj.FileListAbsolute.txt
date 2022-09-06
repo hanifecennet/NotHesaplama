@@ -1,0 +1,21 @@
+C:\Users\user\source\repos\FakulteOkulNot\FakulteOkulNot\bin\Debug\FakulteOkulNot.exe.config
+C:\Users\user\source\repos\FakulteOkulNot\FakulteOkulNot\bin\Debug\FakulteOkulNot.exe
+C:\Users\user\source\repos\FakulteOkulNot\FakulteOkulNot\bin\Debug\FakulteOkulNot.pdb
+C:\Users\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.Form1.resources
+C:\Users\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.Properties.Resources.resources
+C:\Users\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.exe
+C:\Users\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.pdb
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\FakulteOkulNot\FakulteOkulNot\bin\Debug\FakulteOkulNot.exe.config
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\FakulteOkulNot\FakulteOkulNot\bin\Debug\FakulteOkulNot.exe
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\FakulteOkulNot\FakulteOkulNot\bin\Debug\FakulteOkulNot.pdb
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.Form1.resources
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.exe
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\FakulteOkulNot\FakulteOkulNot\obj\Debug\FakulteOkulNot.pdb
